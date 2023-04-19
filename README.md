@@ -23,7 +23,7 @@ Note that this script can be slow and it may take a while to generate a list of 
 
 ## Credits
 
-This script was created by [Antonilksa](https://github.com/Antonilksa). Special thanks to [noahcoolboy](https://github.com/noahcoolboy) for his repository, which I took as a basis for creating this project.
+This script was created by [Antoniksa](https://github.com/Antonilksa). Special thanks to [noahcoolboy](https://github.com/noahcoolboy) for his repository, which I took as a basis for creating this project.
 
 ## Contact
 
