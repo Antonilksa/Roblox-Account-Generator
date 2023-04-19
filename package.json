@@ -6,6 +6,6 @@
     "node-fetch": "^3.0.0"
   },
   "scripts": {
-    "start": "node --no-warnings index.js"
+    "start": "node --no-warnings main.js"
   }
 }
