@@ -1,0 +1,11 @@
+{
+  "name": "RbxAccGen",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node --no-warnings index.js"
+  }
+}
